@@ -1,3 +1,5 @@
+# If you use this program, replace the path in line 7 with the location of the dataset data.json
+
 import json
 import difflib
 
